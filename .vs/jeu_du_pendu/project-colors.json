@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f4aee771-5bd8-4522-8185-4a619e784fc4": {
+      "ProjectGuid": "f4aee771-5bd8-4522-8185-4a619e784fc4",
+      "DisplayName": "jeu_du_pendu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
